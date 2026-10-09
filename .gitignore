@@ -1,0 +1,18 @@
+
+# Compiled executables
+/server
+/load_test
+
+# Object files
+*.o
+*.out
+
+# macOS files
+.DS_Store
+
+# VS Code local settings
+.vscode/
+
+# Temporary files
+*.swp
+*~
